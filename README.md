@@ -2,7 +2,7 @@
 # PPHA 30536
 
 
-## Final Project: Reproducible Research
+## Final Project: Crimes, guns, and mental health in Chicago
 ## Winter 2022
 ## By Guillermo Trefogli and Earnest Salgado
 
